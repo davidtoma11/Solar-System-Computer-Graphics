@@ -7,7 +7,7 @@ This project is a 3D simulation of a simplified solar system, implementing compu
 - Geometric Transformations: Each planet follows orbital positioning and rotation, with transformations applied dynamically.
 - Rendering Functions: DrawPlanet and DrawShadow manage object drawing and shadow projection, while shaders handle color blending and realistic light interactions.
 - Texture Mapping: The Sun is textured using a 2D image (GL_TEXTURE_2D) to enhance visual realism.
-- 
+  
 This simulation effectively demonstrates real-time rendering concepts, creating an interactive and visually accurate representation of planetary motion and lighting in a 3D environment.
 
 
